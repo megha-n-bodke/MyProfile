@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [TO-DO List](https://github.com/megha-n-bodke/todo-list)
 
-- 🌱 I’m currently learning **HTML,CSS,Bootstrap,JavaScript**
+- 🌱 I’m currently learning **HTML,CSS,Bootstrap,JavaScript,React, Ruby, Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [https://github.com/megha-n-bodke](https://github.com/megha-n-bodke)
 
