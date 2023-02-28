@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=megha-n-bodke" alt="megha-n-bodke" /></a> </p>
 
-- 🔭 I’m currently working on [TO-DO List](https://github.com/megha-n-bodke/todo-list)
+- 🔭 I’m currently working on Github profile.
 
 - 🌱 I’m currently learning **HTML,CSS,Bootstrap,JavaScript,React, Ruby, Ruby on Rails**
 
